@@ -98,4 +98,3 @@ Source: UCI Online Retail Dataset
 
  `#Pandas` `#Numpy` `#DataCleaning` `#FeatureEngineering` `#EDA`  `#RFMAnalysis` `#CustomerSegmentation` `#KMeansClustering` `#CollaborativeFiltering` `#CosineSimilarity` `#ProductRecommendation` `#ScikitLearn` `#StandardScaler` `#StreamlitApp` `#MachineLearning` `#DataVisualization` `#PivotTables` `#DataTransformation` `#RealTimePrediction`
 
-📬 Contact
