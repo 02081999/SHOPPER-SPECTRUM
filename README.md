@@ -1,7 +1,7 @@
 # SHOPPER-SPECTRUM
 
 
-## 🛒 Shopper Spectrum: Customer Segmentation and Product Recommendations in E-Commerce
+## 🛒Shopper Spectrum: Customer Segmentation and Product Recommendations in E-Commerce
 
 Welcome to Shopper Spectrum, a data-driven application that helps uncover customer behavior patterns and recommend products using clustering and collaborative filtering techniques. 
 
