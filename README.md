@@ -75,9 +75,9 @@ Source: UCI Online Retail Dataset
 
 ## 📸 App Screenshots
 
-| Home                               | Product Recommendation                            | Customer Segmentation                         |
-| --------------------------------------- | ------------------------------------------------- | --------------------------------------------- |
-| ![Dashboard](<img width="1825" height="882" alt="start" src="https://github.com/user-attachments/assets/d0046d0c-4acb-4878-b1d6-781fbb8f090b" />
+| Images                               | 
+| --------------------------------------- | 
+| ![Home](<img width="1825" height="882" alt="start" src="https://github.com/user-attachments/assets/d0046d0c-4acb-4878-b1d6-781fbb8f090b" />
 | ![Recommendation](<img width="1868" height="755" alt="product_recomm" src="https://github.com/user-attachments/assets/591a1ae6-0b81-485c-aeb9-08c2c0e728f5" />
 | ![Segmentation](<img width="1845" height="828" alt="cluster" src="https://github.com/user-attachments/assets/36e1e9df-815a-4dfa-aac2-43bb0036a612" /> |
 
