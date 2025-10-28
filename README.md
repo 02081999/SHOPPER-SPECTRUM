@@ -91,7 +91,7 @@ Source: UCI Online Retail Dataset
 
 🧭 Intuitive UI: Easy navigation with a sidebar menu using Streamlit Option Menu.
 
-💡 Insightful Visuals: Bar charts, pie charts, and cluster visualizations to convey findings.
+💡 Insightful Visuals: Bar charts, line charts, and cluster visualizations to convey findings.
 
 
 ## 🏷️ Suggested Tags 
